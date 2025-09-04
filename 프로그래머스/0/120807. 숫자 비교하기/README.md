@@ -2,6 +2,8 @@
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120807) 
 
+@@ 삼항연산자를 쓰니 더욱 빨랐다!! @@
+
 ### 성능 요약
 
 메모리: 85.6 MB, 시간: 0.03 ms
